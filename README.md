@@ -1,2 +1,3 @@
-# developer-notes
-Just My Developer Notes, Maklum Pelupa #kekekeke
+# Personal Notes
+
+Just My Personal Notes, Maklum Pelupa #kekekeke
