@@ -27,3 +27,8 @@ bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic test --f
 ``` bash
 bin/kafka-topics.sh --describe --zookeeper localhost:2181 --topic my-replicated-topic
 ```
+
+## Describe consumer group
+```bash
+./bin/kafka-consumer-groups.sh --bootstrap-server localhost:9092 --describe --group group-id
+```
